@@ -5,33 +5,20 @@ function Footer() {
   return (
     <footer className="App-footer">
       <p>
-        Github:{" "}
+        {"   "}Academia.edu:{" "}
         <a
-          href="http://github.com/friggito"
+          href="https://columbia.academia.edu/C%C3%A9sarCabezas"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @friggito
-        </a>
-        {"    "}|{"    "}Linkedin:{" "}
-        <a
-          href="http://linkedin.com/in/friggito"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          /friggito
-        </a>
-        {"    "}|{"    "}Twitter:{" "}
-        <a
-          href="http://twitter.com/friggito"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          @friggito
+          /CésarCabezas
         </a>
       </p>
       <p>
-        <a href="mailto:ornella.friggit@gmail.com">ornella.friggit@gmail.com</a>
+        <a href="cgc2125@columbia.edu">cgc2125@columbia.edu</a>
+      </p>
+      <p>
+        New York, NY, USA
       </p>
     </footer>
   );
